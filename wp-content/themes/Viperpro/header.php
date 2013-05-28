@@ -43,7 +43,7 @@
 <?php wp_head(); ?>
 <script type="text/javascript">
   var vglnk = { api_url: '//api.viglink.com/api',
-                key: '276098ecb615740cf214e0192ec6cd99' };
+                key: '47c461e7e7fe501b99367760fbf55d38' };
 
   (function(d, t) {
     var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
